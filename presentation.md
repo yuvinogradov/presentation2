@@ -169,7 +169,7 @@ The signature is used to verify the message wasn't changed along the way, and, i
 
 ### **Putting all together**
 
-![https://cdn.auth0.com/content/jwt/encoded-jwt3.png](/assets/encoded-jwt3.png)
+![https://cdn.auth0.com/content/jwt/encoded-jwt3.png](assets/encoded-jwt3.png)
 
 Note:The output is three Base64-URL strings separated by dots that can be easily passed in HTML and HTTP environments, while being more compact when compared to XML-based standards such as SAML.
 
@@ -178,7 +178,7 @@ The slide shows a JWT that has the previous header and payload encoded, and it i
 
 
 jwt.io - JWT debugger
-![https://cdn.auth0.com/blog/legacy-app-auth/legacy-app-auth-5.png](/assets/legacy-app-auth-5.png)
+![https://cdn.auth0.com/blog/legacy-app-auth/legacy-app-auth-5.png](assets/legacy-app-auth-5.png)
 
 Note:If you want to play with JWT and put these concepts into practice, you can use [jwt.io Debugger](https://jwt.io/#debugger-io) to decode, verify, and generate JWTs.
 
